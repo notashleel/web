@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4853.83 4132.13">
+
+    <radialGradient id="grad" fx="0.5" fy="0.5" r="1" >
+        <stop stop-opacity="1" offset="0"/>
+        <stop stop-opacity="0" offset="0.6"/>
+    </radialGradient>
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #f4f4fa;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: .4px;
+      }
+
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: #71c16f;
+        stroke-width: .4px;
+      }
+
+      .cls-3 {
+        fill: #f4f4fa;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" x="1464.67" y="1571.67" width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_12" data-name="Layer 12">
+    <polygon class="cls-2" points="2318.44 1895.22 2083.56 2325.74 1915.95 2317.08 2011.76 2462.96 2145.78 2460.88 2389.24 2021.19 2318.44 1895.22"/>
+    <polygon class="cls-2" points="2418.67 1711.56 2357.29 1824.04 2584.12 2239.22 2678.56 2156.26 2418.67 1711.56"/>
+    <polygon class="cls-2" points="2713.07 2215.39 2775.35 2322.17 2940.58 2311.51 2843.41 2450.06 2700.45 2452.28 2618.02 2301.36 2713.07 2215.39"/>
+  </g>
+  <g id="KSDrafter_Layer" data-name="KSDrafter Layer">
+    <g>
+      <g class="cls-5">
+        <g id="GridlinesGroup">
+          <polyline class="cls-1" points="2389.24 2021.19 3333.68 3701.74 1374 214.67 2318.44 1895.22"/>
+          <polyline class="cls-1" points="2145.78 2460.88 1298.69 3990.72 3236.32 491.35 2389.24 2021.19"/>
+          <polyline class="cls-1" points="2011.76 2462.96 79.01 2492.94 4078.53 2430.9 2145.78 2460.88"/>
+          <polyline class="cls-1" points="1915.95 2317.08 865.97 718.3 3061.74 4061.74 2011.76 2462.96"/>
+          <polyline class="cls-1" points="2083.56 2325.74 3997.09 2424.64 2.42 2218.19 1915.95 2317.08"/>
+          <polyline class="cls-1" points="2318.44 1895.22 3158.87 354.78 1243.14 3866.19 2083.56 2325.74"/>
+          <polyline class="cls-1" points="2678.56 2156.26 3557.73 3660.66 1539.49 207.16 2418.67 1711.56"/>
+          <polyline class="cls-1" points="2584.12 2239.22 1128.76 3517.68 4133.92 877.79 2678.56 2156.26"/>
+          <polyline class="cls-1" points="2357.29 1824.04 1511.78 276.51 3429.63 3786.75 2584.12 2239.22"/>
+          <polyline class="cls-1" points="2418.67 1711.56 3346.03 12.2 1429.93 3523.4 2357.29 1824.04"/>
+          <polyline class="cls-1" points="2618.02 2301.36 1182.28 3599.98 4148.82 916.77 2713.07 2215.39"/>
+          <polyline class="cls-1" points="2700.45 2452.28 3618 4132.03 1700.47 621.61 2618.02 2301.36"/>
+          <polyline class="cls-1" points="2843.41 2450.06 4771.69 2420.15 772.17 2482.19 2700.45 2452.28"/>
+          <polyline class="cls-1" points="2940.58 2311.51 4040.4 743.35 1743.6 4018.21 2843.41 2450.06"/>
+          <polyline class="cls-1" points="2775.35 2322.17 862.12 2445.69 4853.81 2187.99 2940.58 2311.51"/>
+          <polyline class="cls-1" points="2713.07 2215.39 1736.65 541.12 3751.78 3996.44 2775.35 2322.17"/>
+        </g>
+      </g>
+      <rect class="cls-4" x="1464.67" y="1571.67" width="1920" height="1080"/>
+    </g>
+    <g id="AnchorGroup">
+      <circle class="cls-3" cx="2389.24" cy="2021.19" r="6"/>
+      <circle class="cls-3" cx="2145.78" cy="2460.88" r="6"/>
+      <circle class="cls-3" cx="2011.76" cy="2462.96" r="6"/>
+      <circle class="cls-3" cx="1915.95" cy="2317.08" r="6"/>
+      <circle class="cls-3" cx="2083.56" cy="2325.74" r="6"/>
+      <circle class="cls-3" cx="2318.44" cy="1895.22" r="6"/>
+      <circle class="cls-3" cx="2678.56" cy="2156.26" r="6"/>
+      <circle class="cls-3" cx="2584.12" cy="2239.22" r="6"/>
+      <circle class="cls-3" cx="2357.29" cy="1824.04" r="6"/>
+      <circle class="cls-3" cx="2418.67" cy="1711.56" r="6"/>
+      <circle class="cls-3" cx="2618.02" cy="2301.36" r="6"/>
+      <circle class="cls-3" cx="2700.45" cy="2452.28" r="6"/>
+      <circle class="cls-3" cx="2843.41" cy="2450.06" r="6"/>
+      <circle class="cls-3" cx="2940.58" cy="2311.51" r="6"/>
+      <circle class="cls-3" cx="2775.35" cy="2322.17" r="6"/>
+      <circle class="cls-3" cx="2713.07" cy="2215.39" r="6"/>
+    </g>
+  </g>
+</svg>
